@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/View/AppView.php</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Template/Helo/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Model/Table/PersonsTable.php</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Template/Persons/add.ctp</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Template/Persons/edit.ctp</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Template/Persons/delete.ctp</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Model/Entity/Person.php</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Controller/PersonsController.php</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Controller/AppController.php</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Template/Persons/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/caketest/samplecake/src/Controller/HeloController.php</file>
+        </group>
+    </open-files>
+</project-private>
